@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B9296F2B-001B-4E41-994E-56A75A46E617</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PludForMac</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6DC7A024-2D4C-478B-BF2C-8F0AE03CFBA5</key>
+		<string>https://github.com/iTSangar/PludForMac.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PludForMac/PludForMac.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6DC7A024-2D4C-478B-BF2C-8F0AE03CFBA5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/iTSangar/PludForMac.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6DC7A024-2D4C-478B-BF2C-8F0AE03CFBA5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6DC7A024-2D4C-478B-BF2C-8F0AE03CFBA5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PludForMac</string>
+		</dict>
+	</array>
+</dict>
+</plist>

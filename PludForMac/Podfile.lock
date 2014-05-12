@@ -1,10 +1,13 @@
 PODS:
+  - AXStatusItemPopup (0.0.2)
   - DTBonjour (1.1.0)
 
 DEPENDENCIES:
+  - AXStatusItemPopup (~> 0.0)
   - DTBonjour (= 1.1.0)
 
 SPEC CHECKSUMS:
+  AXStatusItemPopup: 1f1437e30e98c8acdecea7ea607ef8b163c6f2a0
   DTBonjour: 476d06d1977aac8ec6b40fabb453bdcafa546ead
 
 COCOAPODS: 0.32.1
