@@ -5,6 +5,7 @@ target "PludForMac" do
 
 pod 'DTBonjour', '1.1.0'
 pod 'BCStatusItem', '~> 0.0'
+pod 'DTFoundation', '~> 1.6'
 
 end
 

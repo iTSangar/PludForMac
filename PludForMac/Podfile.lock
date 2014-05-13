@@ -1,13 +1,37 @@
 PODS:
   - BCStatusItem (0.0.1)
   - DTBonjour (1.1.0)
+  - DTFoundation (1.6.3):
+    - DTFoundation/AppKit
+    - DTFoundation/Core
+    - DTFoundation/DTASN1
+    - DTFoundation/DTAWS
+    - DTFoundation/DTHTMLParser
+    - DTFoundation/DTReachability
+    - DTFoundation/DTSidePanel
+    - DTFoundation/DTSQLite
+    - DTFoundation/DTUTI
+    - DTFoundation/DTZipArchive
+    - DTFoundation/UIKit
+    - DTFoundation/UIKit_BlocksAdditions
+  - DTFoundation/AppKit (1.6.3):
+    - DTFoundation/Core
+  - DTFoundation/Core (1.6.3)
+  - DTFoundation/DTASN1 (1.6.3):
+    - DTFoundation/Core
+  - DTFoundation/DTAWS (1.6.3):
+    - DTFoundation/Core
+  - DTFoundation/DTReachability (1.6.3)
+  - DTFoundation/DTSQLite (1.6.3)
 
 DEPENDENCIES:
   - BCStatusItem (~> 0.0)
   - DTBonjour (= 1.1.0)
+  - DTFoundation (~> 1.6)
 
 SPEC CHECKSUMS:
   BCStatusItem: 3f53a63f8855395973e87558b80de7541f800aa7
   DTBonjour: 476d06d1977aac8ec6b40fabb453bdcafa546ead
+  DTFoundation: 42939bcb968b331673ae4992289bf0f761b588a4
 
 COCOAPODS: 0.32.1

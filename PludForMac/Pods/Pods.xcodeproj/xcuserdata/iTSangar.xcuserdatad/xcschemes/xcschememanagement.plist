@@ -14,6 +14,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-PludForMac-DTFoundation.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-PludForMac.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -22,17 +27,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>33ECA23860CF48D292DA31BD</key>
+		<key>6FE597DBAEB24B8ABE2142F3</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>769EB8C84D504A1AA966948B</key>
+		<key>719502F50A174B99899AA34F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>98EB4EBA6A5F45C4B678F617</key>
+		<key>8EB05CB3F0E246B4BE29D272</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>97CC32073DF24CF7BA851A90</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -18,3 +18,45 @@
 #define COCOAPODS_VERSION_MINOR_DTBonjour 1
 #define COCOAPODS_VERSION_PATCH_DTBonjour 0
 
+// DTFoundation
+#define COCOAPODS_POD_AVAILABLE_DTFoundation
+#define COCOAPODS_VERSION_MAJOR_DTFoundation 1
+#define COCOAPODS_VERSION_MINOR_DTFoundation 6
+#define COCOAPODS_VERSION_PATCH_DTFoundation 3
+
+// DTFoundation/AppKit
+#define COCOAPODS_POD_AVAILABLE_DTFoundation_AppKit
+#define COCOAPODS_VERSION_MAJOR_DTFoundation_AppKit 1
+#define COCOAPODS_VERSION_MINOR_DTFoundation_AppKit 6
+#define COCOAPODS_VERSION_PATCH_DTFoundation_AppKit 3
+
+// DTFoundation/Core
+#define COCOAPODS_POD_AVAILABLE_DTFoundation_Core
+#define COCOAPODS_VERSION_MAJOR_DTFoundation_Core 1
+#define COCOAPODS_VERSION_MINOR_DTFoundation_Core 6
+#define COCOAPODS_VERSION_PATCH_DTFoundation_Core 3
+
+// DTFoundation/DTASN1
+#define COCOAPODS_POD_AVAILABLE_DTFoundation_DTASN1
+#define COCOAPODS_VERSION_MAJOR_DTFoundation_DTASN1 1
+#define COCOAPODS_VERSION_MINOR_DTFoundation_DTASN1 6
+#define COCOAPODS_VERSION_PATCH_DTFoundation_DTASN1 3
+
+// DTFoundation/DTAWS
+#define COCOAPODS_POD_AVAILABLE_DTFoundation_DTAWS
+#define COCOAPODS_VERSION_MAJOR_DTFoundation_DTAWS 1
+#define COCOAPODS_VERSION_MINOR_DTFoundation_DTAWS 6
+#define COCOAPODS_VERSION_PATCH_DTFoundation_DTAWS 3
+
+// DTFoundation/DTReachability
+#define COCOAPODS_POD_AVAILABLE_DTFoundation_DTReachability
+#define COCOAPODS_VERSION_MAJOR_DTFoundation_DTReachability 1
+#define COCOAPODS_VERSION_MINOR_DTFoundation_DTReachability 6
+#define COCOAPODS_VERSION_PATCH_DTFoundation_DTReachability 3
+
+// DTFoundation/DTSQLite
+#define COCOAPODS_POD_AVAILABLE_DTFoundation_DTSQLite
+#define COCOAPODS_VERSION_MAJOR_DTFoundation_DTSQLite 1
+#define COCOAPODS_VERSION_MINOR_DTFoundation_DTSQLite 6
+#define COCOAPODS_VERSION_PATCH_DTFoundation_DTSQLite 3
+

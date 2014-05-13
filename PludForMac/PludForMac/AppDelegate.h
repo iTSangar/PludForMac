@@ -11,6 +11,7 @@
 @interface AppDelegate : NSObject <NSApplicationDelegate>
 
 @property (assign) IBOutlet NSWindow *window;
+@property (assign) IBOutlet NSMenu *statusMenu;
 @property (strong, nonatomic) NSStatusItem *statusItem;
 
 @end

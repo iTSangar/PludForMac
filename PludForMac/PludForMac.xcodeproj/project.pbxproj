@@ -19,7 +19,7 @@
 		76189B3718C9738000E9DECD /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76189B1618C9738000E9DECD /* Cocoa.framework */; };
 		76189B3F18C9738000E9DECD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 76189B3D18C9738000E9DECD /* InfoPlist.strings */; };
 		76189B4118C9738000E9DECD /* PludForMacTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 76189B4018C9738000E9DECD /* PludForMacTests.m */; };
-		769C07DE192291FD0019E244 /* DragStatusView.m in Sources */ = {isa = PBXBuildFile; fileRef = 769C07DD192291FD0019E244 /* DragStatusView.m */; };
+		769C07E31922AC100019E244 /* PludServer.m in Sources */ = {isa = PBXBuildFile; fileRef = 769C07E21922AC100019E244 /* PludServer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,8 +54,8 @@
 		76189B3C18C9738000E9DECD /* PludForMacTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PludForMacTests-Info.plist"; sourceTree = "<group>"; };
 		76189B3E18C9738000E9DECD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		76189B4018C9738000E9DECD /* PludForMacTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PludForMacTests.m; sourceTree = "<group>"; };
-		769C07DC192291FD0019E244 /* DragStatusView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DragStatusView.h; path = Classes/DragStatusView.h; sourceTree = "<group>"; };
-		769C07DD192291FD0019E244 /* DragStatusView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DragStatusView.m; path = Classes/DragStatusView.m; sourceTree = "<group>"; };
+		769C07E11922AC100019E244 /* PludServer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PludServer.h; path = Class/PludServer.h; sourceTree = "<group>"; };
+		769C07E21922AC100019E244 /* PludServer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PludServer.m; path = Class/PludServer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,10 +124,9 @@
 		76189B1C18C9738000E9DECD /* PludForMac */ = {
 			isa = PBXGroup;
 			children = (
+				769C07E41922AC250019E244 /* Classes */,
 				76189B2818C9738000E9DECD /* AppDelegate.h */,
 				76189B2918C9738000E9DECD /* AppDelegate.m */,
-				769C07DC192291FD0019E244 /* DragStatusView.h */,
-				769C07DD192291FD0019E244 /* DragStatusView.m */,
 				76189B2E18C9738000E9DECD /* Images.xcassets */,
 				76189B2B18C9738000E9DECD /* MainMenu.xib */,
 				76189B1D18C9738000E9DECD /* Supporting Files */,
@@ -163,6 +162,15 @@
 				76189B3D18C9738000E9DECD /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		769C07E41922AC250019E244 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				769C07E11922AC100019E244 /* PludServer.h */,
+				769C07E21922AC100019E244 /* PludServer.m */,
+			);
+			name = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -300,7 +308,7 @@
 			files = (
 				76189B2A18C9738000E9DECD /* AppDelegate.m in Sources */,
 				76189B2318C9738000E9DECD /* main.m in Sources */,
-				769C07DE192291FD0019E244 /* DragStatusView.m in Sources */,
+				769C07E31922AC100019E244 /* PludServer.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
