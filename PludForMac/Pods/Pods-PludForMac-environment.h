@@ -6,11 +6,11 @@
 // project.
 
 
-// AXStatusItemPopup
-#define COCOAPODS_POD_AVAILABLE_AXStatusItemPopup
-#define COCOAPODS_VERSION_MAJOR_AXStatusItemPopup 0
-#define COCOAPODS_VERSION_MINOR_AXStatusItemPopup 0
-#define COCOAPODS_VERSION_PATCH_AXStatusItemPopup 2
+// BCStatusItem
+#define COCOAPODS_POD_AVAILABLE_BCStatusItem
+#define COCOAPODS_VERSION_MAJOR_BCStatusItem 0
+#define COCOAPODS_VERSION_MINOR_BCStatusItem 0
+#define COCOAPODS_VERSION_PATCH_BCStatusItem 1
 
 // DTBonjour
 #define COCOAPODS_POD_AVAILABLE_DTBonjour

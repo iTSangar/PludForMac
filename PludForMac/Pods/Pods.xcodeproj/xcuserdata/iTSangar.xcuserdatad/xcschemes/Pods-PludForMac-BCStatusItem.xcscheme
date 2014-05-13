@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FD7A1F4D376B415DAB20EF22"
-               BuildableName = "libPods-PludForMac-AXStatusItemPopup.a"
-               BlueprintName = "Pods-PludForMac-AXStatusItemPopup"
+               BlueprintIdentifier = "769EB8C84D504A1AA966948B"
+               BuildableName = "libPods-PludForMac-BCStatusItem.a"
+               BlueprintName = "Pods-PludForMac-BCStatusItem"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
